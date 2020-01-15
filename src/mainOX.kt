@@ -4,5 +4,6 @@ fun main() {
     var b: Int = 1
 
     println("Kółko krzyżyk")
+    println("Nowy tekst")
 
 }
