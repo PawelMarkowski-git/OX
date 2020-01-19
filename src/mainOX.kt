@@ -5,7 +5,9 @@ fun main() {
 
     println("Kółko krzyżyk")
     println("Nowy tekst")
-    println("sdfsdfdsf")
+
+    println("a")
+
 
 
 }
