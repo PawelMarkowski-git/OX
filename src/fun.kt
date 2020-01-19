@@ -1,5 +1,5 @@
 fun new(){
 
-    println()
+    println("fajnie jest")
 
 }
